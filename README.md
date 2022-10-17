@@ -4,32 +4,32 @@ AFGR-48 dataset is a challenging 48-class geospatial fine-grained aircraft class
 *AFGR-48 [official split: 25% for train and 75% for test] <br>  
 ```
 |─ ── 25-75  
-|      └── ─ train
-|             └── A0
-|                  ├── A0_0.jpg
-|                  └── ...  
-|                  └── A0_xx.jpg 
-|             └── A1
-|                  ├── A1_0.jpg
-|                  └── ... 
-|                  └── A1_xx.jpg 
-|             └── ...
-|             └── A47  
-|                  ├── A47_0.jpg
-|                  └── ...
-|                  └── A47_xx.jpg
-|    └── ─ val
-|             └── A0
-|                  ├── A0_0.jpg 
-|                  └── ... 
-|                  └── A0_xx.jpg  
-|             └── A1 
-|                  ├── A1_0.jpg
-|                  └── ...  
-|                  └── A1_xx.jpg  
-|             └── ... 
-|             └── A47  
-|                  ├── A47_0.jpg 
-|                  └── ...
-|                  └── A47_xx.jpg 
+      └── ─ train
+      |        └── A0
+      |        |     ├── A0_0.jpg
+      |        |     └── ...  
+      |        |     └── A0_xx.jpg 
+      |        └── A1
+      |        |     ├── A1_0.jpg
+      |        |     └── ... 
+      |        |     └── A1_xx.jpg 
+      |        └── ...
+      |        └── A47  
+      |             ├── A47_0.jpg
+      |             └── ...
+      |             └── A47_xx.jpg
+      └── ─ val
+              └── A0
+              |     ├── A0_0.jpg 
+              |     └── ... 
+              |     └── A0_xx.jpg  
+              └── A1 
+              |     ├── A1_0.jpg
+              |     └── ...  
+              |     └── A1_xx.jpg  
+              └── ... 
+              └── A47  
+                   ├── A47_0.jpg 
+                   └── ...
+                   └── A47_xx.jpg 
 ```
