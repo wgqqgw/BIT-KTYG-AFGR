@@ -38,4 +38,4 @@ AFGR-48 dataset is a challenging **50-class** geospatial fine-grained aircraft c
 ![Samples2](https://github.com/wgqqgw/BIT-KTYG-AFGR/raw/main/samples/BIT-AFGR50-2.png)<br>
 ## Dataset Download
 The AFGR-50 Dataset will be released in a few weeks, please stay tuned for its update!<br>
-If you have any questions, please write the it in the issue column, and I will answer it as soon as possible! Thank you!<br>
+If you have any questions, please write them in the issue column, and I will answer them soon! Thank you!<br>
