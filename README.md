@@ -39,3 +39,14 @@ AFGR-48 dataset is a challenging **50-class** geospatial fine-grained aircraft c
 ## Dataset Download
 The AFGR-50 Dataset will be released in a few weeks, please stay tuned for its update!<br>
 If you have any questions, please write them in the issue column, and I will answer them soon! Thank you!<br>
+
+## Access the Dataset【2023.03.27】
+We have made this dataset available through Baidu Drive for your convenience. You can access the dataset using the following links:
+
+### Baidu Drive
+- [Download Dataset from Baidu Drive](https://pan.baidu.com/s/1v21bymvfpxyM7owOFwrkwg)
+
+To download the dataset from Baidu Drive, you may need to enter the following extraction code: `<KTYG>`.
+
+### Google Drive
+BIT-AFGR50 will be available through Gooble Drive soon!
