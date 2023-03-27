@@ -51,13 +51,16 @@ To download the dataset from Baidu Drive, you may need to enter the following ex
 ### Google Drive
 BIT-AFGR50 will be available through Gooble Drive soon!
 
-## Usage
-
-Please provide information on how to use the dataset, including any necessary preprocessing steps or examples of how to load the data into a programming environment such as Python or R.
 
 ## License
 
-Please specify the license under which the dataset is being shared, and any restrictions or requirements for its use.
+This dataset is provided for **academic research purposes only**. By using this dataset, you agree to:
+
+- Use the dataset solely for academic research, and not for any commercial purposes or applications that violate human peace and morality.
+- Give appropriate credit to the dataset creators when citing the dataset in your research.
+
+Any other use of this dataset is strictly prohibited. If you have questions about the usage of this dataset or want to request permission for a specific use case, please contact the dataset maintainer.
+
 
 ## Citation
 
