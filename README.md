@@ -50,3 +50,19 @@ To download the dataset from Baidu Drive, you may need to enter the following ex
 
 ### Google Drive
 BIT-AFGR50 will be available through Gooble Drive soon!
+
+## Usage
+
+Please provide information on how to use the dataset, including any necessary preprocessing steps or examples of how to load the data into a programming environment such as Python or R.
+
+## License
+
+Please specify the license under which the dataset is being shared, and any restrictions or requirements for its use.
+
+## Citation
+
+If you use this dataset in your research or data analysis projects, please cite the following paper: https://doi.org/10.3390/rs15071773
+
+
+Thank you for your interest in the Dataset Title, and we hope it proves useful in your research or data analysis projects! If you have any questions or require assistance, please feel free to open an issue on this repository or contact the dataset maintainer.
+
