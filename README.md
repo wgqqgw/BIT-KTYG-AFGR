@@ -48,6 +48,8 @@ We have made this dataset available through Baidu Drive for your convenience. Yo
 
 To download the dataset from Baidu Drive, you may need to enter the following extraction code: `<KTYG>`.
 
+- **UPDATE 2023.04.01!!** We released a long-tailed distribution dataset, BIT-AFGR50-LT.
+
 ### Google Drive
 BIT-AFGR50 will be available through Gooble Drive soon!
 
