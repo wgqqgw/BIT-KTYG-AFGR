@@ -51,8 +51,8 @@ To download the dataset from Baidu Drive, you may need to enter the following ex
 - **UPDATE 2023.04.01!!** We released a long-tailed distribution dataset, BIT-AFGR50-LT.
 
 ### Google Drive
-BIT-AFGR50 will be available through Gooble Drive soon!
-
+BIT-AFGR50 is available on Google Drive Now.
+- [Download Dataset from Google Drive] (https://drive.google.com/drive/folders/1sfijypMjigxccowOZbdkRInyXRJkpRXI?usp=sharing)
 
 ## License
 
