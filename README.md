@@ -52,7 +52,7 @@ To download the dataset from Baidu Drive, you may need to enter the following ex
 
 ### Google Drive
 BIT-AFGR50 is available on Google Drive Now.
-- [Download Dataset from Google Drive] (https://drive.google.com/drive/folders/1sfijypMjigxccowOZbdkRInyXRJkpRXI?usp=sharing)
+- [Download Dataset from Google Drive](https://drive.google.com/drive/folders/1sfijypMjigxccowOZbdkRInyXRJkpRXI?usp=sharing)
 
 ## License
 
