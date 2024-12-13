@@ -1,6 +1,6 @@
 # AFGR-50: Image classification dataset for remote sensing Aircraft Fine-Grained Recognition.
 ## Dataset Overview 
-AFGR-48 dataset is a challenging **50-class** geospatial fine-grained aircraft classification dataset. The dataset contains a total of **12500** aircraft instances from VHR optical remote sensing images which are acquired from Google Earth with **spatial resolution ranging from 0.3 to 0.7m**. The dataset provides two official splits for researchers to train and test fairly. The example structure of the AFGR-50 dataset is shown as below: <br>  
+AFGR-50 dataset is a challenging **50-class** geospatial fine-grained aircraft classification dataset. The dataset contains a total of **12500** aircraft instances from VHR optical remote sensing images which are acquired from Google Earth with **spatial resolution ranging from 0.3 to 0.7m**. The dataset provides two official splits for researchers to train and test fairly. The example structure of the AFGR-50 dataset is shown as below: <br>  
 * **AFGR-50 Data Structure** `[official split: 20% for train and 80% for test]` <br>  
 ```
 └─ ── 20-80  
